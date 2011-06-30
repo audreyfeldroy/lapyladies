@@ -1,0 +1,8 @@
+#errorMsg {
+    color: red;
+}
+
+#errorMsg ol {
+    list-style: none;
+}
+
